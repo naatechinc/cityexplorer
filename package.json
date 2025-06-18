@@ -1,0 +1,18 @@
+{
+  "name": "city-explorer",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "web": "expo start --web",
+    "android": "expo start --android",
+    "ios": "expo start --ios"
+  },
+  "dependencies": {
+    "expo": "EXPO_SDK_VERSION",
+    "expo-location": "*",
+    "expo-router": "*",
+    "react": "18.2.0",
+    "react-native": "0.73.0"
+  }
+}
