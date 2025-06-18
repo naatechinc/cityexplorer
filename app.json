@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "City Explorer",
+    "slug": "city-explorer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "jsEngine": "hermes",
+    "sdkVersion": "EXPO_SDK_VERSION",
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
